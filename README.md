@@ -4,7 +4,7 @@ Hi I made this project during the 7 Days Free Bootcamp, conducted by <b> SHAPEAI
 The instructor during the session was Mr. Deepayan Ghoshal (Ex Intern at Amazon). I got to
 learn a lot during these 7 days and it was an amazing experience learning with SHAPEAI.
 <br><br>Here's the link for you to watch the sessions as well<br>
-<a href="https://www.youtube.com/watch?v=sI8xsYqVe64"> <img src="https://github.com/ShapeAI/PYTHON-AND-DATA-ANALYTICS/blob/main/YOUTUBE%20THUMBNAIL-4.png"> </a>
+<a href="https://www.youtube.com/watch?v=sI8xsYqVe64"></a>
 <br>I got to have hands on experience on:
 <li>Excel
 <br>during these 7 days, and everything was explained from the very basics so that
